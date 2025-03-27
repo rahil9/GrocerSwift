@@ -139,7 +139,10 @@ export function Navbar() {
             </DropdownMenu>
           ) : (
             <Link href="/auth">
-              <Button>Login / Sign Up</Button>
+              <Button>
+                <span className="hidden md:inline">Login / Sign Up</span>
+                <span className="md:hidden">Login</span>
+              </Button>
             </Link>
           )}
         </div>
@@ -151,4 +154,3 @@ export function Navbar() {
     </header>
   )
 }
-

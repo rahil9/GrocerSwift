@@ -24,6 +24,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+            <head>
+              <link rel="icon" href="/favicon.ico" sizes="any" />
+              <link rel="icon" type="image/png" href="/favicon.webp" />
+            </head>
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <AuthProvider>
@@ -39,7 +43,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-
-
-import './globals.css'

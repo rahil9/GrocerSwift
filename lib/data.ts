@@ -58,7 +58,7 @@ const categories: Category[] = [
   {
     id: "instant-food",
     name: "Instant Food",
-    image: "https://media.licdn.com/dms/image/v2/C4D12AQEuiubJ4X5M4Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1622109299493?e=2147483647&v=beta&t=hzWK0okQgic5nk-D6ANf5dGBlo_cExHRiyYSE846iq0",
+    image: "https://cdn.thewirecutter.com/wp-content/media/2024/12/TT-INSTANT-NOODLES-2048px-5957-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp",
   },
 ]
 

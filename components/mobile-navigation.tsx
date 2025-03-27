@@ -73,10 +73,9 @@ export function MobileNavigation() {
           >
             <User className="h-5 w-5" />
           </div>
-          <span className="text-xs mt-1">Profile</span>
+          <span className="text-xs mt-1">{user ? "Profile" : "Login"}</span>
         </Link>
       </div>
     </div>
   )
 }
-
