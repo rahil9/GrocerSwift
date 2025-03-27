@@ -85,7 +85,7 @@ export function Navbar() {
         {/* Add the ThemeToggle button to the navbar */}
         <div className="flex items-center gap-4">
           <ThemeToggle />
-          <Link href="/cart" className="relative">
+          <Link href="/cart" className="relative hidden md:block">
             <Button variant="outline" size="icon">
               <ShoppingBag className="h-5 w-5" />
               <span className="sr-only">Cart</span>
@@ -99,6 +99,7 @@ export function Navbar() {
               )}
             </Button>
           </Link>
+
 
           {mounted && user ? (
             <DropdownMenu>
