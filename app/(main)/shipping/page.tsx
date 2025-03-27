@@ -17,7 +17,7 @@ export default function ShippingPolicyPage() {
               <Truck className="h-6 w-6 text-primary" />
               <h2 className="text-2xl font-bold">Delivery Areas</h2>
             </div>
-            <p className="mb-4">QuickGrocer currently delivers to the following areas:</p>
+            <p className="mb-4">GrocerSwift currently delivers to the following areas:</p>
             <ul className="list-disc pl-6 space-y-2 mb-4">
               <li>All major metropolitan areas including Delhi, Mumbai, Bangalore, Chennai, Kolkata, and Hyderabad</li>
               <li>Select Tier 2 cities including Pune, Ahmedabad, Jaipur, and Chandigarh</li>

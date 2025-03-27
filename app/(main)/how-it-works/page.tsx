@@ -8,7 +8,7 @@ export default function HowItWorksPage() {
   return (
     <div className="container py-12">
       <div className="text-center max-w-3xl mx-auto mb-12">
-        <h1 className="text-4xl font-bold mb-4">How QuickGrocer Works</h1>
+        <h1 className="text-4xl font-bold mb-4">How GrocerSwift Works</h1>
         <p className="text-xl text-muted-foreground">
           Get your groceries delivered in minutes with our simple 4-step process
         </p>

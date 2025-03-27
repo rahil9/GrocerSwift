@@ -91,8 +91,8 @@ export default function ContactPage() {
           </div>
           <h3 className="text-xl font-medium mb-2">Email Us</h3>
           <p className="text-muted-foreground mb-4">Send us an email and we'll get back to you within 24 hours</p>
-          <a href="mailto:support@quickgrocer.com" className="text-primary font-medium hover:underline">
-            support@quickgrocer.com
+          <a href="mailto:support@GrocerSwift.com" className="text-primary font-medium hover:underline">
+            support@GrocerSwift.com
           </a>
         </div>
 

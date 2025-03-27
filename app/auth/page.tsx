@@ -197,13 +197,13 @@ export default function AuthPage() {
         <div className="relative z-20 flex items-center gap-2 text-lg font-medium">
           <Link href="/" className="flex items-center gap-2">
             <ShoppingBag className="h-6 w-6" />
-            <span>QuickGrocer</span>
+            <span>GrocerSwift</span>
           </Link>
         </div>
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">
             <p className="text-lg">
-              "QuickGrocer has completely changed how I shop for groceries. Fresh produce delivered in minutes!"
+              "GrocerSwift has completely changed how I shop for groceries. Fresh produce delivered in minutes!"
             </p>
             <footer className="text-sm">Sarah Thompson</footer>
           </blockquote>
@@ -213,7 +213,7 @@ export default function AuthPage() {
       <div className="lg:p-8">
         <div className="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[350px]">
           <div className="flex flex-col space-y-2 text-center">
-            <h1 className="text-2xl font-semibold tracking-tight">Welcome to QuickGrocer</h1>
+            <h1 className="text-2xl font-semibold tracking-tight">Welcome to GrocerSwift</h1>
             <p className="text-sm text-muted-foreground">Sign in to your account or create a new one</p>
           </div>
 

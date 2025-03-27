@@ -75,7 +75,7 @@ export function Navbar() {
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <ShoppingBag className="h-6 w-6" />
-          <span className="text-xl font-bold">QuickGrocer</span>
+          <span className="text-xl font-bold">GrocerSwift</span>
         </Link>
 
         <div className="hidden md:flex flex-1 max-w-md mx-4">

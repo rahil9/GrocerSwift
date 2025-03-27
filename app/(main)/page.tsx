@@ -70,7 +70,7 @@ export default function Home() {
         <div className="container py-8">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="font-bold mb-4">QuickGrocer</h3>
+              <h3 className="font-bold mb-4">GrocerSwift</h3>
               <p className="text-muted-foreground">Your one-stop shop for groceries delivered in minutes.</p>
             </div>
             <div>
@@ -127,7 +127,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t mt-8 pt-8 text-center text-muted-foreground">
-            <p>© {new Date().getFullYear()} QuickGrocer. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} GrocerSwift. All rights reserved.</p>
           </div>
         </div>
       </footer>

@@ -12,7 +12,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "QuickGrocer - Groceries Delivered in Minutes",
+  title: "GrocerSwift - Groceries Delivered in Minutes",
   description: "Fresh produce, daily essentials, and everything you need delivered right to your doorstep.",
     generator: 'v0.dev'
 }

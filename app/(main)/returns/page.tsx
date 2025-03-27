@@ -19,7 +19,7 @@ export default function ReturnsPage() {
               <h2 className="text-2xl font-bold">Returns Policy</h2>
             </div>
             <p className="mb-4">
-              At QuickGrocer, we strive to ensure that all products delivered to you are fresh, undamaged, and of the
+              At GrocerSwift, we strive to ensure that all products delivered to you are fresh, undamaged, and of the
               highest quality. However, we understand that sometimes you may need to return items.
             </p>
             <h3 className="text-xl font-medium mb-2">Eligible Returns</h3>
